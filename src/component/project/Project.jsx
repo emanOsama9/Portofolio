@@ -18,10 +18,10 @@ function Project() {
         <h2 className='underline'>My Projects</h2>
       <div className='menue'>
 
-      <div className='grid grid-cols-2  items-cente'>
+      <div className='grid grid-cols-2  items-center'>
           
           <div>
-          <img src="/Screenshot (159).png" className='w-[400px] rounded-2xl hover:scale-105 -100 my-[30px]  transition-transform duration-300'/>
+          <img src="/Portofolio/Screenshot (159).png" className='w-[400px] rounded-2xl hover:scale-105 -100 my-[30px]  transition-transform duration-300'/>
 
           </div>
           
@@ -65,7 +65,7 @@ function Project() {
 </div>
     <div>
       
-           <img src="/Screenshot (70).png" className='w-[400px] rounded-2xl hover:scale-105  my-[30px] transition-transform duration-300'/>
+           <img src="/Portofolio/Screenshot (70).png" className='w-[400px] rounded-2xl hover:scale-105  my-[30px] transition-transform duration-300'/>
 
    </div> 
 
@@ -86,7 +86,7 @@ function Project() {
     <div  className='grid grid-cols-2  items-center'>
           
           <div>
-              <img src="/Screenshot (120).png" className='w-[400px] rounded-2xl hover:scale-105  my-[30px] transition-transform duration-300'/>
+              <img src="/Portofolio/Screenshot (120).png" className='w-[400px] rounded-2xl hover:scale-105  my-[30px] transition-transform duration-300'/>
 
             </div> 
 
@@ -124,7 +124,7 @@ function Project() {
        
 </div>
 <div>
-    <img src="/Screenshot (64).png" className='w-[400px] rounded-2xl hover:scale-105   my-[30px] transition-transform duration-300'/>
+    <img src="/Portofolio/Screenshot (64).png" className='w-[400px] rounded-2xl hover:scale-105   my-[30px] transition-transform duration-300'/>
 
    </div> 
 
