@@ -121,7 +121,7 @@ function Project() {
         <p>An interactive task management app where can add, delete, and update tasks. users  </p>
            <br/>
          <br/>
-         <a href="https://emanosama9.github.io/todolist/" className='text-white ' target="_blank" ><h3 className='border border-purple-600 px-2 py-2'>GitHub: https://emanosama9.github.io/e-commerce/</h3> </a>
+         <a href="https://emanosama9.github.io/todolist/" className='text-white ' target="_blank" ><h3 className='border border-purple-600 px-[30px] py-10 md:px-2 md:py-2'>GitHub: https://emanosama9.github.io/todolist/</h3> </a>
 
 </div>
 <div>
