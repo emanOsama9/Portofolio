@@ -13,13 +13,13 @@ function Header() {
       
          <div className='navbar'>
 
-           <nav className='flex  items-center fixed top-0 py-[20px]  right-5 left-5' >
+           <nav className='  md:w-[100%]  md:px-[50px] w-full md:flex  items-center fixed top-0 py-[20px] md:right-5 md:left-5' >
                       <ul className='me-auto'>
                         <Link> <h2 className='text-4xl	'>Eman</h2> </Link>
     
                         
                         </ul> 
-                      <ul className=' ms-auto flex gap-11 '>
+                      <ul className=' ms-auto justify-center flex gap-11 '>
                       <a href="#about"className=' hover:underline'><li>About</li></a>
     
                            <a href="#skills "className=' hover:underline'><li>Skills</li></a>
