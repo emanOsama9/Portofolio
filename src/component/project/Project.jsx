@@ -112,7 +112,7 @@ function Project() {
  <div className='todolist'>
 
 
- <div className= 'grid grid-cols-2  items-center '>
+ <div className= 'grid md:grid-cols-2  grid-cols-1 items-center '>
 
  
 <div className='px-8'>
