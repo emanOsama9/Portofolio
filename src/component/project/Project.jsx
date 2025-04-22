@@ -18,7 +18,7 @@ function Project() {
         <h2 className='underline'>My Projects</h2>
       <div className='menue'>
 
-      <div className='grid grid-cols-2  items-center'>
+      <div className='grid grid-cols-2  items-center grid-cols-1'>
           
           <div>
           <img src="/Portofolio/Screenshot (159).png" className='w-[400px] rounded-2xl hover:scale-105 -100 my-[30px]  transition-transform duration-300'/>
@@ -51,7 +51,7 @@ function Project() {
 
  <div className='ecommerce'>
   
- <div className= 'grid grid-cols-2  items-center '>
+ <div className= 'grid grid-cols-2  items-center grid-cols-1 '>
 
  
 <div className='px-8'>
@@ -83,7 +83,7 @@ function Project() {
 
 
 
-    <div  className='grid grid-cols-2  items-center'>
+    <div  className='grid grid-cols-2  items-center  grid-cols-1'>
           
           <div>
               <img src="/Portofolio/Screenshot (120).png" className='w-[400px] rounded-2xl hover:scale-105  my-[30px] transition-transform duration-300'/>
